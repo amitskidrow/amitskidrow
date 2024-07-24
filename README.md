@@ -21,11 +21,11 @@
 
 
 
-- 🔭 I’m currently working on **Problem Solving Skills**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **LLM (Large Language Models), Cloud Computing, and Microservice System Design**
 
-- 👯 I’m looking to collaborate on **MERN project**
+- 👯 I’m looking to collaborate on **MERN, Flutter, and Native Android projects**
 
 - 💬 Ask me about **Technology, Photography, Psychology**
 
